@@ -1,0 +1,9 @@
+﻿<browsers>
+  <browser refID="Default">
+    <controlAdapters>
+      <adapter
+          controlType="System.Web.UI.WebControls.DropDownList"
+          adapterType="CSTruter.DropDownListAdapter" />
+    </controlAdapters>
+  </browser>
+</browsers>
